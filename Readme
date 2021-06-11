@@ -1,2 +1,17 @@
+##Requirements##
+import webbrowser
+import os
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+import xml.etree.ElementTree as ET
+import requests, json
+import media_player
+import old_modules
+import vlc
+import wikipedia
+import old_modules
+
+
 ##This is the readme file for the util.py file##
 I have added various functions which have different capabilities of work. Some may require internet, some maynot. Read the documentation for more detail.
