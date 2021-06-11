@@ -142,7 +142,7 @@ def get_weather(city_name):
 
 
    
-    api_key='115ba1eeef12493dc980aaca76319bf0'
+    api_key='<api-key>'
     url="https://api.openweathermap.org/data/2.5/weather?q="+city_name+"&appid="+api_key
 
 
