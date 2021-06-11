@@ -12,31 +12,31 @@
 	    </app>
 		<app id="003">
 			<name>assasins creed 2</name>
-			<url>"C:\Program Files (x86)\Ubisoft\Assassin's Creed II\AssassinsCreedIIGame.exe"</url>
+			<url>"C:\Program Files (x86).....\AssassinsCreedIIGame.exe"</url>
 	     </app>
 		<app id="004">
 			<name>assasins creed 3</name>
-			<url>"C:\Program Files (x86)\R.G. Mechanics\Assassin's Creed III\AssassinsCreed3.exe"</url>
+			<url>"C:\Program Files (x86).....AssassinsCreed3.exe"</url>
 	     </app>
 		<app id="005">
 			<name>assasins creed 4 Black Flag</name>
-			<url>"C:\Program Files (x86)\Ubisoft\Assassins Creed IV Black Flag\AC4BFSP.exe"</url>
+			<url>"C:\Program Files (x86).....\Assassins Creed IV Black Flag\AC4BFSP.exe"</url>
 		</app>
 		<app id="006">
 			<name>assasins creed brotherhood</name>
-			<url>"C:\Program Files (x86)\Assassin's Creed Brotherhood\ACBSP.exe"</url>
+			<url>"C:\Program Files (x86).....P.exe"</url>
 		</app>
 		<app id="007">
 			<name>assasins creed revelations</name>
-			<url>"C:\Program Files (x86)\Ubisoft\Assassin's Creed Revelations\ACRPR.exe"</url>
+			<url>"C:\Program Files (x86)\.....\ACRPR.exe"</url>
 		</app>
 		<app id="007">
 			<name>assasins creed liberation</name>
-			<url>"C:\Program Files (x86)\Ubisoft\Assassin's Creed Liberation HD\ac3lhd_32.exe"</url>
+			<url>"C:\Program Files (x86)\.....\ac3lhd_32.exe"</url>
 		</app>
 		<app id="008">
 			<name>assasins creed rogue</name>
-			<url>"C:\Program Files (x86)\R.G. Mechanics\Assassin's Creed Rogue\ACC.exe"</url>
+			<url>"C:\Program Files (x86).....CC.exe"</url>
 		</app>
 		<app id="009">
 			<name>assasins creed unity</name>
@@ -44,17 +44,17 @@
 		</app>
 	<app id="10"><name>gta v</name><url>"H:\Gta 5\Gta V 89\Grand Theft Auto V\Grand Theft Auto V\GTAVLauncher.exe"</url><name /><url /><name /><url /></app><app /><app id="12"><name>Need For Speed Hot Persuit</name><url>"D:\Games\Need for Speed - Hot Pursuit 2010\NFS11.exe"</url><name /><url /><name /><url /><name /><url /></app><app /><app /><app /><app /></applications>
 	<files>
-		<url name="undisputed_3">G:\movies_collection\Undisputed3Redemption(2010)\Undisputed.3.Redemption.2010.720p.BRrip.x264.YIFY.mp4</url>
-		<url name="the amazing spiderman">G:\movies_collection\TheAmazingSpiderman(2012)[1080p]\The.Amazing.Spiderman.2012.1080p.BrRip.x264.YIFY.mp4</url>
+		<url name="undisputed_3">G:.....ted.3.Redemption.2010.720p.BRrip.x264.YIFY.mp4</url>
+		<url name="the amazing spiderman">G:\mov.....p]\The.Amazing.Spiderman.2012.1080p.BrRip.x264.YIFY.mp4</url>
 		<url name="the amazing spiderman 2">G:\movies_collection\TheAmazingSpiderMan2(2014)[1080p]\The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4</url>
-		<url name="undisputed_4">G:\movies_collection\UndisputedIV20161080pWEBRip1.2 GB-iExTV\BoykaUndisputedIV20161080pWEBRip1.2GB-iExTV\BoykaUndisputedIV20161080pWEBRip1.2 GB-iExTV.mp4</url>
-		<url name="venom">G:\movies_collection\Venom(2018)[WEBRip][1080p][YTS.AM]\Venom.2018.1080p.WEBRip.x264-[YTS.AM].mp4</url>
-		<url name="rush hour 1">G:\movies_collection\RushHour1(1998)\Rush.Hour.1.1998.720p.BRrip.x264.YIFY.mp4</url>
-		<url name="rush hour 2">G:\movies_collection\RushHour2(2001)[1080p]\Rush.Hour.2.2001.1080p.BluRay.x264.YIFY.mp4</url>
-		<url name="rush hour 3">G:\movies_collection\RushHour3(2007)[1080p]\Rush.Hour.3.2007.1080p.BrRip.x264.Deceit.mp4</url>
-		<url name="mission impossible ghost protocol">G:\movies_collection\MissionImpossibleGhostProtocol(2011)[1080p]\Mission.Impossible.Ghost.Protocol.2011.1080p.BrRip.x264.YIFY.mp4</url>
-		<url name="mission impossible rogue nation">G:\movies_collection\Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.H264.AAC-RARBG\Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.H264.AAC-RARBG.mp4</url>
-		<url name="mission impossible fallout">G:\movies_collection\MissionImpossible-Fallout(2018)[BluRay][1080p][YTS.AM]\MissionImpossible-Fallout(2018)[BluRay][1080p][YTS.AM]\Mission.Impossible.-.Fallout.2018.1080p.BluRay.x264-[YTS.AM].mp4</url>
-		<url name="never back down 2">G:\movies_collection\NeverBackDown2TheBeatdown2011HDRipXviDAC3-FWOLF\NeverBackDown2TheBeatdown2011HDRipXviDAC3-FWOLF.avi</url>
+		<url name="undisputed_4">G:\movies_collec.....aUndisputedIV20161080pWEBRip1.2GB-iExTV\BoykaUndisputedIV20161080pWEBRip1.2 GB-iExTV.mp4</url>
+		<url name="venom">G:\movies_.....AM]\Venom.2018.1080p.WEBRip.x264-[YTS.AM].mp4</url>
+		<url name="rush hour 1">G:\movi.....20p.BRrip.x264.YIFY.mp4</url>
+		<url name="rush hour 2">G:\mov.....001.1080p.BluRay.x264.YIFY.mp4</url>
+		<url name="rush hour 3">G:\movies.....Rush.Hour.3.2007.1080p.BrRip.x264.Deceit.mp4</url>
+		<url name="mission impossible ghost protocol">G:\mo.....]\Mission.Impossible.Ghost.Protocol.2011.1080p.BrRip.x264.YIFY.mp4</url>
+		<url name="mission impossible rogue nation">G:\movie.....15.1080p.BluRay.H264.AAC-RARBG\Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.H264.AAC-RARBG.mp4</url>
+		<url name="mission impossible fallout">G:\movies_colle.....M]\MissionImpossible-Fallout(2018)[BluRay][1080p][YTS.AM]\Mission.Impossible.-.Fallout.2018.1080p.BluRay.x264-[YTS.AM].mp4</url>
+		<url name="never back down 2">G:\movies_collection.....rBackDown2TheBeatdown2011HDRipXviDAC3-FWOLF.avi</url>
 	</files>
 </root>
