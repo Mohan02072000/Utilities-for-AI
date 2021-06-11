@@ -1,0 +1,20 @@
+## this the documentation for util.py###
+
+main():Takes two argument both string. First is for trigger code. 001: Google search, 002:launch a software, 003:Watch video, 005:add files to registry.xml for structure see registry.xml
+006:add software address
+
+util.browser():takes one argument string. It launches the browser google searches the data on browser
+
+util.executor():takes one string argument. cross verifies the name given through a Conversational AI and then launches the application associated with it from address from registry.xml.
+
+util.player():takes one string argument. Cross verifies name with AI and plays the video from registry.xml
+
+util.add_app():takes no arguments. launches schema for adding app data to the registry.xml.
+
+util.add_file(): Takes no arguments. Launches schema for adding media file data to the registry.xml
+
+util.get_weather(): This is an online module, throws error when offline. Takes one argument, city name, returns data in string. 
+
+util.youtube(): takes one string argument. This module requires my previously developed Media_player module. It downloads the video temporarily from youtube, and plays it on the system
+
+util.wiki(): takes one string argument(keyword). This is online module, shows error when offline. It returns summary about the given topic, person, or anything on wikipedia.
